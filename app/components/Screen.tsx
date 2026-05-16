@@ -191,7 +191,7 @@ function ScreenWithScrolling(props: ScreenProps) {
 
   // Add native behavior of pressing the active tab to scroll to the top of the content
   // More info at: https://reactnavigation.org/docs/use-scroll-to-top/
-  useScrollToTop(ref)
+  useScrollToTop(ref as unknown as React.RefObject<ScrollView>)
 
   return (
     <ScrollView

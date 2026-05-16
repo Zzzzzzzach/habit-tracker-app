@@ -12,6 +12,11 @@ const ar: Translations = {
     readyForLaunch: "تطبيقك تقريبا جاهز للتشغيل",
     exciting: "اوه هذا مثير",
   },
+  homeScreen: {
+    hello: "مرحبا،",
+    check_in: "تسجيل الحضور اليومي",
+    today: "اليوم",
+  },
   errorScreen: {
     title: "هناك خطأ ما",
     friendlySubtitle:

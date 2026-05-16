@@ -12,6 +12,11 @@ const fr: Translations = {
     readyForLaunch: "Votre application, presque prête pour le lancement !",
     exciting: "(ohh, c'est excitant !)",
   },
+  homeScreen: {
+    hello: "Salut,",
+    check_in: "Pointage quotidien",
+    today: "Aujourd'hui",
+  },
   errorScreen: {
     title: "Quelque chose s'est mal passé !",
     friendlySubtitle:

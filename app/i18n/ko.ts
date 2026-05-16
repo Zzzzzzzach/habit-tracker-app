@@ -12,6 +12,11 @@ const ko: Translations = {
     readyForLaunch: "출시 준비가 거의 끝난 나만의 앱!",
     exciting: "(오, 이거 신나는데요!)",
   },
+  homeScreen: {
+    hello: "안녕하세요,",
+    check_in: "일일 체크인",
+    today: "오늘",
+  },
   errorScreen: {
     title: "뭔가 잘못되었습니다!",
     friendlySubtitle:

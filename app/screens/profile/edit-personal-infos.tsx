@@ -1,11 +1,9 @@
 import { observer } from "mobx-react-lite"
 import React, { FC } from "react"
-import { View, ViewStyle, TouchableOpacity } from "react-native"
+import { View, ViewStyle } from "react-native"
 
-import { Text, Screen, Icon, Toggle, IconTypes, TextField, Button } from "app/components"
-import layout from "app/utils/layout"
+import { Text, Screen, Icon, TextField, Button } from "app/components"
 
-import { Link } from "app/screens/settings"
 import { colors, spacing } from "app/theme"
 import { SettingsScreenProps } from "app/navigators/types"
 
